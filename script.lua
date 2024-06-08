@@ -1,3 +1,5 @@
+print('hax loaded !')
+
 local function f(t)
 	print(tostring(t))
 	for _, o in ipairs(t) do
